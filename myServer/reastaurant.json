@@ -1,0 +1,28 @@
+[
+    {
+      "name": "The Golden Oasis",
+      "description": "The Golden Oasis is a culinary paradise nestled in the heart of the city. The restaurant’s warm, inviting ambiance is accentuated by its golden-hued decor, reminiscent of a sun-kissed desert oasis. The menu offers an eclectic mix of traditional and contemporary dishes, each meticulously crafted to tantalize your taste buds. The Golden Oasis promises an unforgettable dining experience, where every meal is a journey of gastronomic delight",
+      "image": "https://i.pinimg.com/564x/72/64/80/726480a57e77349bd1744f097b693a31.jpg"
+    },
+    {
+      "name": "The Urban Vineyard",
+      "description": "The Urban Vineyard is a unique fusion of city chic and rustic charm. This restaurant brings the essence of a vineyard to the urban landscape, offering a selection of exquisite wines paired with a menu that marries farm-fresh ingredients with innovative culinary techniques. The Urban Vineyard is more than just a restaurant; it’s a place where food, wine, and culture intertwine to create a dining experience like no other",
+      "image": "https://i.pinimg.com/564x/1a/4d/74/1a4d749786241e6c7f195c25c3b76b54.jpg"
+    },
+    {
+        "name": "The Azure Bistro",
+        "description": "The Azure Bistro is a haven for seafood lovers. With a decor that mirrors the serene blue of the ocean, this restaurant specializes in fresh, locally-sourced seafood dishes. Each plate at The Azure Bistro is a testament to the bounties of the sea, prepared with a touch of sophistication and a dash of creativity. Come, dive into a culinary adventure that’s as deep and vast as the ocean itself.",
+        "image": "https://i.pinimg.com/564x/70/53/4e/70534e904fd57ac507a5636b6ea231c2.jpg"
+      },
+      {
+        "name": "The Crimson Hearth",
+        "description": "The Crimson Hearth is a cozy, intimate restaurant that exudes a warm, welcoming vibe. The restaurant’s crimson-themed decor and the crackling hearth at its center create a homely atmosphere that makes diners feel at ease. The menu at The Crimson Hearth features comfort food with a gourmet twist, each dish prepared with love and served straight from the heart.",
+        "image": "https://i.pinimg.com/564x/f0/e1/e5/f0e1e51fe9781f66efb873059cd34a1b.jpg"
+
+
+        
+        
+        
+      }
+  ]
+  
